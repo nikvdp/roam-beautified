@@ -170,7 +170,7 @@ span.bp3-icon-small.bp3-icon-star {
 .rm-page-ref {
     color: #9aabd0;
 }
-.rm-page-ref-link-color {
+.rm-page-ref-link-color, .rm-page-ref--link {
     color: #33bdea;
     font-weight: 600;
 }
